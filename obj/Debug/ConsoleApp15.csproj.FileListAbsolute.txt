@@ -1,0 +1,8 @@
+C:\Users\Geekster PC\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.exe.config
+C:\Users\Geekster PC\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.exe
+C:\Users\Geekster PC\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.pdb
+C:\Users\Geekster PC\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.csproj.AssemblyReference.cache
+C:\Users\Geekster PC\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.csproj.SuggestedBindingRedirects.cache
+C:\Users\Geekster PC\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.csproj.CoreCompileInputs.cache
+C:\Users\Geekster PC\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.exe
+C:\Users\Geekster PC\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.pdb
